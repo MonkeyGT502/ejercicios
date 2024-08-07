@@ -5,6 +5,7 @@ import java.util.Scanner;
 public class promedio {
     public static void main(String[] args) {
         Scanner scanner=new Scanner(System.in);
+        //Se utiliza el comando "sout" para imprimir en pantalla el requerimiento solicitado para el usuario// 
             System.out.println("Ingrese la Primera Nota1:");
             int Nota1= scanner.nextInt();
             System.out.println("Ingrese la segunda Nota2:");
