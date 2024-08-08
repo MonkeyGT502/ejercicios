@@ -2,7 +2,7 @@ import java.util.Scanner;
 public class kilowatts {
 
     /**
-     * @autor Monkey
+     * @autor {MonkeyGT;}
      */
     public static void main(String[] args) {
         // TODO code application logic here

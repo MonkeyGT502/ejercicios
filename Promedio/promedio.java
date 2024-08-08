@@ -1,5 +1,5 @@
 /**
- * @author {Monkey;} 
+ * @author {MonkeyGT;} 
  * */
 import java.util.Scanner;
 public class promedio {
